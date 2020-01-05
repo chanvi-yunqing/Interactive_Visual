@@ -32,4 +32,7 @@
 
 ![数据收集](https://images.gitee.com/uploads/images/2020/0105/170511_72bc03e7_1648233.png "数据收集.png")
 
+[项目完整数据下载地址](https://gitee.com/NFUNM010/Interactive_Visual/blob/master/project(4).zip)
+
+
 
