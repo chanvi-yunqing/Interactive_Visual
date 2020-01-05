@@ -25,3 +25,11 @@
 ![plotly数据图表](https://images.gitee.com/uploads/images/2020/0105/165019_cfa8ecaa_1648233.png "表单2.png")
 
 [Flask与plotly模块制作数据表单与交互图表源代码下载地址](https://gitee.com/NFUNM010/Interactive_Visual/blob/master/%E8%A1%A8%E5%8D%95%E4%BB%A3%E7%A0%81.zip)
+
+### 项目收集到的数据与清洗出来的数据
+
+- 该项目的主题是关于全球青少年怀孕率的研究分析，针对这一项目主题，我从世界银行的上下载了各国历年来青少年怀孕率的数据，全球历年来的人均GDP，各国政府历年来在教育方面的投资数额和全球各国女性领导占比的数据
+
+![数据收集](https://images.gitee.com/uploads/images/2020/0105/170511_72bc03e7_1648233.png "数据收集.png")
+
+
