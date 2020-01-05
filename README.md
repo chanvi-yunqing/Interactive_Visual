@@ -3,7 +3,7 @@
 [交互式可视化数据故事](https://nfunm010.gitee.io/interactive_visual/)
 
 [pythonanywhere部署链接(1)](http://lsm.pythonanywhere.com/)
-ps：进入pythonanywhere记得点击“数据故事”等按钮噢~
+ps：进入pythonanywhere记得点击“数据故事”，“dash_table"等按钮噢~
 
 ### dash数据图
 
