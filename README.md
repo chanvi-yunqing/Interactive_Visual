@@ -35,4 +35,15 @@
 [项目完整数据下载地址](https://gitee.com/NFUNM010/Interactive_Visual/blob/master/project(4).zip)
 
 
+### 附录数据总和
+
+[dash数据图压缩包下载地址](https://gitee.com/NFUNM010/Interactive_Visual/blob/master/dash.zip)
+
+[Flask与plotly模块制作数据表单与交互图表源代码下载地址](https://gitee.com/NFUNM010/Interactive_Visual/blob/master/%E8%A1%A8%E5%8D%95%E4%BB%A3%E7%A0%81.zip)
+
+[项目完整数据下载地址](https://gitee.com/NFUNM010/Interactive_Visual/blob/master/project(4).zip)
+
+
+
+
 
